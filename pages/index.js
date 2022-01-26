@@ -61,7 +61,7 @@ function Titulo(props) {
 // export default HomePage
 
 export default function PaginaInicial() {
-    const username = 'peas';
+    const username = 'newryan';
   
     return (
       <>
@@ -84,9 +84,9 @@ export default function PaginaInicial() {
                 sm: 'row',
               },
               width: '100%', maxWidth: '700px',
-              borderRadius: '5px', padding: '32px', margin: '16px',
+              borderRadius: '10px', padding: '32px', margin: '16px',
               boxShadow: '0 2px 10px 0 rgb(0 0 0 / 20%)',
-              backgroundColor: appConfig.theme.colors.neutrals[700],
+              backgroundColor: appConfig.theme.colors.transparent["trans"],
             }}
           >
             {/* Formulário */}
@@ -98,7 +98,7 @@ export default function PaginaInicial() {
               }}
             >
               <Titulo tag="h2">Boas vindas de volta!</Titulo>
-              <Text variant="body3" styleSheet={{ marginBottom: '32px', color: appConfig.theme.colors.neutrals[300] }}>
+              <Text variant="body3" styleSheet={{ marginBottom: '32px', color: appConfig.theme.colors.neutrals[400] }}>
                 {appConfig.name}
               </Text>
   
@@ -118,8 +118,8 @@ export default function PaginaInicial() {
                 label='Entrar'
                 fullWidth
                 buttonColors={{
-                  contrastColor: appConfig.theme.colors.neutrals["000"],
-                  mainColor: appConfig.theme.colors.primary[500],
+                  contrastColor: appConfig.theme.colors.neutrals["900"],
+                  mainColor: appConfig.theme.colors.primary[600],
                   mainColorLight: appConfig.theme.colors.primary[400],
                   mainColorStrong: appConfig.theme.colors.primary[600],
                 }}
@@ -146,8 +146,8 @@ export default function PaginaInicial() {
             >
               <Image
                 styleSheet={{
-                  borderRadius: '50%',
-                  marginBottom: '16px',
+                  borderRadius: '40%',
+                  marginBottom: '20px',
                 }}
                 src={`https://github.com/${username}.png`}
               />

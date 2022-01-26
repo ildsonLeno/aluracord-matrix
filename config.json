@@ -1,5 +1,5 @@
 {
-    "name": "Aluracord - Matrix (peas)",
+    "name": "Discord - Alura Matrix (newryan)",
     "stickers": [
         "http://2.bp.blogspot.com/-d21tffsTIQo/U_H9QjC69gI/AAAAAAAAKqM/wnvOyUr6a_I/s1600/Pikachu%2B2.gif",
         "https://media1.giphy.com/media/BdghqxNFV4efm/200.gif",
@@ -35,6 +35,9 @@
                 "800": "#181F25",
                 "900": "#101418",
                 "999": "#080A0C"
+            },
+            "transparent": {
+                "trans": "rgba(0, 0, 0, 0.80)"
             }
         }
     }
