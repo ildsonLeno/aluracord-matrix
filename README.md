@@ -34,10 +34,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-Screenshot - DIA 01
+<h2 align="center">Screenshot - DIA 01</h2>
 
-<iframe src="https://giphy.com/embed/QspwbOf5YELTzuwWVj" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/QspwbOf5YELTzuwWVj">via GIPHY</a></p>
-
+<p align="center">
+  <a href="https://github.com/newryan/aluracord-matrix/blob/master/assets/DIA_01.gif">
+    <img width="800" src="https://github.com/newryan/aluracord-matrix/blob/master/assets/DIA_01.gif">
+  </a>
+</p>
 
 
 
