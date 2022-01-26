@@ -37,7 +37,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h2 align="center">Screenshot - DIA 01</h2>
 
 <p align="center">
-  <a href="https://github.com/newryan/aluracord-matrix/blob/master/assets/DIA_01.gif">
+  <a href="https://aluracord-matrix-eta-eight.vercel.app/">
     <img width="800" src="https://github.com/newryan/aluracord-matrix/blob/master/assets/DIA_01.gif">
   </a>
 </p>
