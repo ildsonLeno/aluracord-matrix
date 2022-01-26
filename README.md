@@ -24,6 +24,16 @@ Conteúdo desta aula
 * Passado propriedades para components;
 * Feito deploy do Aluracord na Vercel;
 
+<h3>DIA 02 - State, novas páginas e navegação SPA vs a Tradicional.</h3>
+
+```
+Conteúdo desta aula
+```
+* Entendendo melhor o que é um SPA;
+* Conhecendo o useState do React;
+* Trabalhando com eventos no React onSubmit, onClick;
+* E sempre após cada push na sua branch principal do GitHub faremos deploy do Aluracord na Vercel.
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
