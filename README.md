@@ -56,7 +56,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <p align="center">
   <a href="https://aluracord-matrix-eta-eight.vercel.app/">
-    <img width="800" src="https://github.com/newryan/aluracord-matrix/blob/master/assets/DIA_02.gif">
+    <img width="800" src="https://github.com/newryan/aluracord-matrix/blob/master/assets/DIA_02.gif?raw=true">
   </a>
 </p>
 
