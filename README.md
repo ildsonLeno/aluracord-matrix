@@ -13,7 +13,7 @@
 - [ ] DIA 04 - 
 - [ ] DIA 05 -
 
-<h3>DIA 01 - Matrix Chat: Criando o nosso projeto Aluracord.</h3>
+<h3>- DIA 01 - Matrix Chat: Criando o nosso projeto Aluracord.</h3>
 
 ```
 Conteúdo desta aula
@@ -24,7 +24,7 @@ Conteúdo desta aula
 * Passado propriedades para components;
 * Feito deploy do Aluracord na Vercel;
 
-<h3>DIA 02 - State, novas páginas e navegação SPA vs a Tradicional.</h3>
+<h3>- DIA 02 - State, novas páginas e navegação SPA vs a Tradicional.</h3>
 
 ```
 Conteúdo desta aula
