@@ -8,8 +8,8 @@
 ### - Andamento
 
 - [x] DIA 01 - Matrix Chat: Criando o nosso projeto Aluracord.
-- [ ] DIA 02 - State, novas páginas e navegação SPA vs a Tradicional.
-- [ ] DIA 03 -
+- [x] DIA 02 - State, novas páginas e navegação SPA vs a Tradicional.
+- [x] DIA 03 - Chat offline? Aprimorando as habilidades com State
 - [ ] DIA 04 - 
 - [ ] DIA 05 -
 
@@ -34,6 +34,15 @@ Conteúdo desta aula
 * Trabalhando com eventos no React onSubmit, onClick;
 * E sempre após cada push na sua branch principal do GitHub faremos deploy do Aluracord na Vercel.
 
+<h3>- DIA 03 - Chat offline? Aprimorando as habilidades com State.</h3>
+
+```
+Conteúdo desta aula
+```
+* Entendendo um pouco mais de como podemos trabalhar com state no React;
+* Trabalhando com arrays no state;;
+* Criando um campo que ao apertamos o "Enter", faz o submit das informações;
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -57,6 +66,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <p align="center">
   <a href="https://aluracord-matrix-eta-eight.vercel.app/">
     <img width="800" src="https://github.com/newryan/aluracord-matrix/blob/master/assets/DIA_02.gif?raw=true">
+  </a>
+</p>
+
+<h2 align="center">Screenshot - DIA 03</h2>
+
+<p align="center">
+  <a href="https://aluracord-matrix-eta-eight.vercel.app/">
+    <img width="800" src="https://github.com/newryan/aluracord-matrix/blob/master/assets/DIA_03.gif?raw=true">
   </a>
 </p>
 
