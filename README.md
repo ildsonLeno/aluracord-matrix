@@ -9,8 +9,8 @@
 
 - [x] DIA 01 - Matrix Chat: Criando o nosso projeto Aluracord.
 - [x] DIA 02 - State, novas páginas e navegação SPA vs a Tradicional.
-- [x] DIA 03 - Chat offline? Aprimorando as habilidades com State
-- [ ] DIA 04 - 
+- [x] DIA 03 - Chat offline? Aprimorando as habilidades com State.
+- [x] DIA 04 - Integrando com o Supabase.io.
 - [ ] DIA 05 -
 
 <h3>- DIA 01 - Matrix Chat: Criando o nosso projeto Aluracord.</h3>
