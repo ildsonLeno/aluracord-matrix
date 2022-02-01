@@ -43,6 +43,16 @@ Conteúdo desta aula
 * Trabalhando com arrays no state;;
 * Criando um campo que ao apertamos o "Enter", faz o submit das informações;
 
+<h3>- DIA 04 - Integrando com o Supabase.io.</h3>
+
+```
+Conteúdo desta aula
+```
+* Entendendo o AJAX;
+* Aplicando o Supabase;
+* Utilizando a aba network para debugarmos requests HTTP;
+* Utilização do useEffect no React;
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -74,6 +84,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <p align="center">
   <a href="https://aluracord-matrix-eta-eight.vercel.app/">
     <img width="800" src="https://github.com/newryan/aluracord-matrix/blob/master/assets/DIA_03.gif?raw=true">
+  </a>
+</p>
+
+<h2 align="center">Screenshot - DIA 04</h2>
+
+<p align="center">
+  <a href="https://aluracord-matrix-eta-eight.vercel.app/">
+    <img width="800" src="https://github.com/newryan/aluracord-matrix/blob/master/assets/DIA_04.gif?raw=true">
   </a>
 </p>
 
