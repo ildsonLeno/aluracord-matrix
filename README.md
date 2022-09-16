@@ -2,7 +2,7 @@
 <h2 align="center">Projeto criado na imersão React com a @Alura e os professores @omariosouto @peas</h2>
 
 <h4 align="center"> 
-	🚧  Imersão React 🚀 Em desenvolvimento...  🚧
+	🚧  Imersão React 🚀 Concluído !!!
 </h4>
 
 ### - Andamento
