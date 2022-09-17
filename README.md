@@ -6,52 +6,52 @@
 </h4>
 
 ### - Andamento
-
+```
 - [x] DIA 01 - Matrix Chat: Criando o nosso projeto Aluracord.
 - [x] DIA 02 - State, novas páginas e navegação SPA vs a Tradicional.
 - [x] DIA 03 - Chat offline? Aprimorando as habilidades com State.
 - [x] DIA 04 - Integrando com o Supabase.io.
-
+```
 <h3>- DIA 01 - Matrix Chat: Criando o nosso projeto Aluracord.</h3>
 
 ```
 Conteúdo desta aula
-```
+
 * Iniciado um projeto Next.js;
 * Criado components com React usando CSS in JS;
 * Visto uma estrutura inicial de um projeto Next.js;
 * Passado propriedades para components;
 * Feito deploy do Aluracord na Vercel;
-
+```
 <h3>- DIA 02 - State, novas páginas e navegação SPA vs a Tradicional.</h3>
 
 ```
 Conteúdo desta aula
-```
+
 * Entendendo melhor o que é um SPA;
 * Conhecendo o useState do React;
 * Trabalhando com eventos no React onSubmit, onClick;
 * E sempre após cada push na sua branch principal do GitHub faremos deploy do Aluracord na Vercel.
-
+```
 <h3>- DIA 03 - Chat offline? Aprimorando as habilidades com State.</h3>
 
 ```
 Conteúdo desta aula
-```
+
 * Entendendo um pouco mais de como podemos trabalhar com state no React;
 * Trabalhando com arrays no state;;
 * Criando um campo que ao apertamos o "Enter", faz o submit das informações;
-
+```
 <h3>- DIA 04 - Integrando com o Supabase.io.</h3>
 
 ```
 Conteúdo desta aula
-```
+
 * Entendendo o AJAX;
 * Aplicando o Supabase;
 * Utilizando a aba network para debugarmos requests HTTP;
 * Utilização do useEffect no React;
-
+```
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
